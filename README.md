@@ -10,6 +10,7 @@ How It Works
 2. The soup is vectorized using CountVectorizer.
 3. Cosine similarity is calculated between the movie vectors.
 4. When a user inputs a movie title, the system returns 5 most similar movies.
+   
 
 📁 Project Structure
 
@@ -25,7 +26,7 @@ How It Works
 ├── requirements.txt                 # Python dependencies
 ```
 
-
+...
 Tools & Libraries Used:
 
 - Python 3
@@ -79,7 +80,7 @@ Source: [Kaggle TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tm
 These files are cleaned and combined into a processed file: `processed_movies.csv`
 
 
-Author
+💻Author
 
 Built for educational purposes
 GitHub: [iktorin-vi](https://github.com/iktorin-vi)
