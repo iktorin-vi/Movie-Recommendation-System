@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-df = pd.read_csv("../data/processed_movies.csv")
+df = pd.read_csv("processed_movies.csv")
 df['soup'] = df['tags']
 
 #CountVectorizer
