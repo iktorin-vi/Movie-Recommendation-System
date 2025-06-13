@@ -57,7 +57,7 @@ streamlit run streamlit_app.py
 
 🌐 Online Version
 
-👉 [Try the app on Streamlit Cloud](https://your-streamlit-link.streamlit.app)
+👉 [Try the app on Streamlit Cloud](https://movie-recommendation-system-yvuckoy4ffq2azfurczyuc.streamlit.app/)
 
 
 ⚙️ Features
